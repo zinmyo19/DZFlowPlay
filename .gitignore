@@ -1,0 +1,33 @@
+# Generated dependencies and builds
+deps/
+build/
+out/
+artifacts/
+.pomcache/
+*.apk
+*.aab
+*.dex
+*.class
+*.part
+__pycache__/
+*.py[cod]
+# Never commit credentials, device settings, or signing material
+.local/
+.env
+.env.*
+!.env.example
+local.properties
+keystore.properties
+signing.properties
+*.keystore
+*.jks
+*.p12
+*.pfx
+*.pem
+*.key
+*.log
+# Editor / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
