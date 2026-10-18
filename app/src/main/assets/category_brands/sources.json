@@ -1,0 +1,80 @@
+{
+  "netflix": {
+    "source_url": "https://raw.githubusercontent.com/gilbarbara/logos/main/logos/netflix.svg",
+    "source_reference": "gilbarbara/logos main logos/netflix.svg",
+    "rights_note": "CC0-1.0 repository; brand remains trademarked",
+    "source_sha256": "76da96177bee47f8c58481f8d2a6393ee053a87fa1cf9f370a14b8b69cb5c36f",
+    "resource": "category_brand_netflix.png",
+    "dimensions": [
+      640,
+      172
+    ],
+    "resource_sha256": "8395cbd53be05c9957f70b76dae2e5919d9e3500496f633783b9501cf26d83ea",
+    "conversion": "Existing SVG rasterized at original aspect ratio; no redrawing, cropping or recoloring."
+  },
+  "disney_plus": {
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Disney%2B_logo.svg",
+    "source_reference": "Wikimedia Commons File:Disney+ logo.svg; source disneyplus.com",
+    "rights_note": "Public-domain/simple-shapes determination on Commons; trademarked brand",
+    "source_sha256": "ad0ea07cb6627c268dae721d9647019e6e3ce1b51c8f4ba8ec8ddf4618546140",
+    "resource": "category_brand_disney_plus.png",
+    "dimensions": [
+      640,
+      347
+    ],
+    "resource_sha256": "0c8dad24d4759ac5a3bc448ec6a27f00fd9cff4d1ebda1a0f2fde7dbffd29460",
+    "conversion": "Existing SVG rasterized at original aspect ratio; no redrawing, cropping or recoloring."
+  },
+  "prime_video": {
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Amazon_Prime_Video_logo_%282024%29.svg",
+    "source_reference": "Wikimedia Commons File:Amazon Prime Video logo (2024).svg",
+    "rights_note": "Commons source; trademark rights remain with Amazon",
+    "source_sha256": "4492f403c3ca05f7c1dec7324c6bdc06df02ec70387e8b956f7e9912432a26bc",
+    "resource": "category_brand_prime_video.png",
+    "dimensions": [
+      640,
+      640
+    ],
+    "resource_sha256": "e265c14632cd14d91c5bd137c916cb24c65a1712477cd05384ffed070caf9e3f",
+    "conversion": "Existing SVG rasterized at original aspect ratio; no redrawing, cropping or recoloring."
+  },
+  "apple_tv": {
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Apple_TV_Plus_Logo.svg",
+    "source_reference": "Wikimedia Commons File:Apple TV Plus Logo.svg; source apple.com/tv",
+    "rights_note": "Commons file; Apple trademark; source attributed on Commons",
+    "source_sha256": "1a2e952209a4c849244ffca064209873d74b94fd2b504c6a26a13d2699830a5c",
+    "resource": "category_brand_apple_tv.png",
+    "dimensions": [
+      640,
+      243
+    ],
+    "resource_sha256": "6feb10a8b454cf6ac775310e9ca1be7d1edbd0493a5ff90ce0010f7b12977611",
+    "conversion": "Existing SVG rasterized at original aspect ratio; no redrawing, cropping or recoloring."
+  },
+  "hbo": {
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg",
+    "source_reference": "Wikimedia Commons File:HBO logo.svg",
+    "rights_note": "Commons file; HBO trademark",
+    "source_sha256": "ff3b394544e418078da83e1dc1e733547d1e2efa5354dd5e5d2bde1d6a65a9b1",
+    "resource": "category_brand_hbo.png",
+    "dimensions": [
+      640,
+      264
+    ],
+    "resource_sha256": "b7334d90773a3f9fa0b78cdf4142a40268d4d2eef7afef099c0a3b3d0acd31b4",
+    "conversion": "Existing SVG rasterized at original aspect ratio; no redrawing, cropping or recoloring."
+  },
+  "movistar": {
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Movistar_2020_logo.svg",
+    "source_reference": "Wikimedia Commons File:Movistar 2020 logo.svg",
+    "rights_note": "Commons file; Movistar/Telef\u00f3nica trademark",
+    "source_sha256": "fddbcae368c64abe8aac446e02bde01e16f0073c8a0dc53027e5a514199df969",
+    "resource": "category_brand_movistar.png",
+    "dimensions": [
+      640,
+      159
+    ],
+    "resource_sha256": "5fe57b122958a4adf6183bbd1906079e10ba2ca38bcc3c7b584c4bf21a1b2433",
+    "conversion": "Existing SVG rasterized at original aspect ratio; no redrawing, cropping or recoloring."
+  }
+}
